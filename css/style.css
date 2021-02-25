@@ -1,0 +1,67 @@
+/* counter */
+
+.single h3{
+    color: tomato;
+    padding: 2rem 0;
+}
+.single{
+    border: 1px lightgreen solid;
+}
+
+
+.red{
+    background-color: red;
+    min-height: 300px;
+}
+.green{
+    background-color: green;
+    min-height: 300px;
+}
+.blue{
+    background-color: blue;
+    min-height: 300px;
+}
+
+
+/* slick slider  */
+
+.item img{
+    width: 100%;
+}
+.item{
+    background-color: #fff;
+    box-shadow: 0 4px 5px #cacaca;
+    border-radius: 8px;
+    padding: 15px;
+    margin: 0 1rem;
+    border: 2px solid #111;
+}
+
+.item:hover{
+    display: block;
+    transition: all ease 0.3s;
+    transform: scale(1,1);
+}
+.logo-slider{
+    padding: 2rem 0;
+}
+
+
+/* akjasojjdfjas */
+.button-group {
+    margin: 2rem 0;
+}
+
+/* images  */
+.d_img img{
+    width: 100%;
+    margin-bottom: 1rem;
+}
+.customize {
+    font-size: 1.2rem;
+    font-weight: 500;
+    padding: 5px 1.3rem;
+    border: 1px solid;
+    text-align: center;
+    cursor: pointer;
+}
